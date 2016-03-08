@@ -1,5 +1,5 @@
---- 
-- 
+---
+-
   address: 2500 Broadway
   allday: true
   city-state: "New York, NY"
@@ -10,8 +10,7 @@
   venue: Jekyll World Headquarters
   website: "http://jekyllrb.com/"
   zip: 10025
-
-- 
+-
   address: Street Address
   allday: true
   city-state: "City, ST"
@@ -22,13 +21,8 @@
   venue: Venue Item
   website: "http://jekyllrb.com/"
   zip: zip
-  
-  - 
-  allday: true
-  start: "2015-05-15 18:00:00"
-  title: "National Dinosaur Day"
 
-- 
+-
   address: 2500 Broadway
   allday: true
   city-state: "New York, NY"
@@ -41,7 +35,7 @@
   zip: 10025
 
 
-- 
+-
   address: 2500 Broadway
   allday: true
   city-state: "New York, NY"
